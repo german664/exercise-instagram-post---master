@@ -1,0 +1,62 @@
+body {
+    background: black;
+    margin-top: 100px;
+}
+
+.post {
+    background: #ffffff;
+    width: 550px;
+    height: 750px;
+    margin: auto auto;
+    font-size: 1.1em;
+}
+
+.seccion1 {
+    height: 8%;
+    width: 100%;
+}
+
+.iconLeft{
+    float: left;
+    width: 50%;
+   padding: 0px 15px 0px 15px;
+}
+.iconLeft p {
+    display: inline-block;
+    margin-left: 5px;
+}
+.fa-ellipsis-v {
+    float: right;
+       padding: 20px 15px 0px 15px;
+
+}
+
+.imagen {
+    width: 100%;
+    height: 57%;
+    background-color: red;
+        overflow: hidden;
+
+}
+
+.imagen img {
+    width: auto;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.fa-bookmark {
+    float: right;
+}
+.iconos {
+    padding: 30px 20px 10px 20px;
+}
+.iconos i {
+    margin-right: 5px;
+}
+.texto {
+    height: 35%;
+    padding: 0px 20px 20px 20px;
+    text-align: justify;
+    
+}
